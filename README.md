@@ -55,16 +55,6 @@ It says "HELLO WORLD"! 🌍
 
 ---
 
-## 🏆 **Trophy Collection**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=linyxhe&theme=dracula&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 **About Me - Developer Edition**
 
 ```java
