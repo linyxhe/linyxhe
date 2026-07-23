@@ -1,52 +1,167 @@
-
-
-<!-- ===================== 打字机 ===================== -->
+# 👋 Hi there, I'm **linyxhe**!
 
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6A00&center=true&vCenter=true&width=820&height=70&lines=%E2%9A%A1+Hello%2C+I%27m+linyxhe;%F0%9F%94%A5+Java+Backend+Developer;%F0%9F%8D%8A+Microservices+%7C+Cloud+Native+%7C+LLM+Engineering;%F0%9F%9A%80+Code.+Design.+Deploy.+Evolve." 
-  alt="typing" 
-/>
-
-</div>
-
-<!-- ===================== 徽章 ===================== -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Core-Java%20Backend-FF6A00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-Spring%20Cloud-FF8C00?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-RAG%20Pipeline-FFD166?style=for-the-badge&logo=openai&logoColor=333333" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Gateway-Spring%20Cloud%20Gateway-FF6A00?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Registry-Nacos-FF8C00?style=flat-square&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Cache-Redis-FF4500?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MQ-RabbitMQ-FFA500?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector-Embedding%20Search-FFB703?style=flat-square&logo=semanticweb&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=linyxhe&label=Visitors&color=orange&style=flat-square" />
+<a href="https://github.com/linyxhe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=true&width=600&lines=Java+Backend+Developer+%F0%9F%92%BB;Microservices+%7C+Cloud+Native+%7C+LLM+Engineering+%E2%9D%A4%EF%B8%8F;Bug+Creator+%26+Fixer+%F0%9F%90%9B;Welcome+to+my+Profile!" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== 主视觉简介 ===================== -->
+## 🎮 **CLICK THESE GAMES!**
 
 <div align="center">
 
-## 🍊 linyxhe的燃橙开发舱
+### 🐍 Contribution Snake
+*Watch the snake eat my contributions!*
+
+![Snake animation](https://raw.githubusercontent.com/linyxhe/linyxhe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/linyxhe/linyxhe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
+---
 
-<h3>🚀 Runtime Profile</h3>
+## 🎯 **Interactive Games & Animations**
 
-<pre align="left"><code class="language-java">public class linyxheUniverse {
+<details>
+<summary>🎲 <b>CLICK: Random Programming Joke</b></summary>
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&border=58a6ff&color=58a6ff)
+
+</details>
+
+<details>
+<summary>🎮 <b>CLICK: Guess the Number Game</b></summary>
+<br>
+
+```
+I'm thinking of a number between 1-100...
+
+Rules:
+1. I pick a random number (seeded from today's date)
+2. You try to guess it
+3. I'll tell you if you're hot or cold!
+
+Can you guess it in 7 tries or less? 🤔
+
+Today's secret number hint: It's between 1-100!
+Pro tip: Use binary search! 🔍
+```
+
+[![Play Number Guessing](https://img.shields.io/badge/🎮_Play_Now-Click_Me!-blue?style=for-the-badge)](https://github.com/linyxhe)
+
+</details>
+
+<details>
+<summary>🎲 <b>CLICK: Dice Roll Simulator</b></summary>
+<br>
+
+```
+🎲 Rolling the dice...
+
+Current roll: ⚀ (1)
+Just kidding! 😄
+
+Every time you refresh this page, you get a different number!
+The universe is your random number generator 🌌
+```
+
+![Dice](https://svgshare.com/i/13fA.svg)
+
+</details>
+
+<details>
+<summary>🏆 <b>CLICK: Collect All Badges!</b></summary>
+<br>
+
+Try to collect all these badges by starring my repos! ⭐
+
+![Badge 1](https://img.shields.io/badge/⭐_First_Star-Earned!-gold?style=flat-square)
+![Badge 2](https://img.shields.io/badge/👀_Profile_View-Unlocked!-blue?style=flat-square)
+![Badge 3](https://img.shields.io/badge/🤝_Follow_Earned-green?style=flat-square)
+
+</details>
+
+<details>
+<summary>🎯 <b>CLICK: Morse Code Challenge</b></summary>
+<br>
+
+Can you decode this?
+
+```
+.... . .-.. .-.. --- / .-- --- .-. .-.. -..
+```
+
+<details>
+<summary>Need a hint?</summary>
+
+It says "HELLO WORLD"! 🌍
+
+</details>
+
+</details>
+
+---
+
+## 🐍 **SNAKE GAME - Play Right Here!**
+
+<div align="center">
+
+### How to Play:
+1. **Fork this repo** (click the Fork button)
+2. **Enable GitHub Actions** in your fork
+3. **Watch the snake** eat your contributions! 🐍
+
+The snake appears in the images above and updates automatically!
+
+</div>
+
+---
+
+## 🎨 **Cool Animated Stats**
+
+<div align="center">
+
+<a href="https://github.com/linyxhe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linyxhe&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats%20🎮"/>
+</a>
+
+<a href="https://github.com/linyxhe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyxhe&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8&custom_title=Top%20Languages%20🏆"/>
+</a>
+
+</div>
+
+---
+
+## 📈 **Activity Graph - Watch Me Code!**
+
+<div align="center">
+
+[![linyxhe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyxhe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=My%20Coding%20Journey%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 **Trophy Collection**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=linyxhe&theme=dracula&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 **About Me - Developer Edition**
+
+```java
+public class linyxhe {
 
     private final String role = "Java Backend Developer";
     private final String focus = "Microservices Architecture";
@@ -61,274 +176,143 @@
             shipValue();
         }
     }
-}</code></pre>
-
-  </td>
-  <td width="50%" align="center" valign="top">
-
-<h3>🔥 Power Modules</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">🍊</td>
-    <td><strong>Java / Spring Boot</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🛰️</td>
-    <td><strong>Spring Cloud / Gateway / OpenFeign</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🧩</td>
-    <td><strong>Nacos / Sentinel / Seata</strong></td>
-  </tr>
-  <tr>
-    <td align="center">⚡</td>
-    <td><strong>Redis / MySQL / RabbitMQ</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🧠</td>
-    <td><strong>RAG / Embedding / Vector Search</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🤖</td>
-    <td><strong>Function Calling / Agent Workflow</strong></td>
-  </tr>
-  <tr>
-    <td align="center">☁️</td>
-    <td><strong>Docker / Linux / Nginx / AWS</strong></td>
-  </tr>
-</table>
-
-  </td>
-  </tr>
-</table>
-
----
-
-<!-- ===================== 技术雷达 ===================== -->
-
-<div align="center">
-
-## 🛰️ Orange Tech Radar
-
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Core-Java-FF6A00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <br/><br/>
-      <strong>后端核心</strong>
-      <br/>
-      Java / Spring Boot / MyBatis Plus
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Micro-Spring%20Cloud-FF8C00?style=for-the-badge&logo=spring&logoColor=white" />
-      <br/><br/>
-      <strong>微服务架构</strong>
-      <br/>
-      Gateway / OpenFeign / Nacos
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Resilience-Sentinel-FFA500?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-      <br/><br/>
-      <strong>稳定性治理</strong>
-      <br/>
-      Sentinel / Seata / Rate Limit
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Data-MySQL%20%26%20Redis-FFD166?style=for-the-badge&logo=mysql&logoColor=333333" />
-      <br/><br/>
-      <strong>数据引擎</strong>
-      <br/>
-      MySQL / Redis / RabbitMQ
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/LLM-RAG-FF6A00?style=for-the-badge&logo=openai&logoColor=white" />
-      <br/><br/>
-      <strong>知识增强链路</strong>
-      <br/>
-      RAG / Embedding / Retrieval
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Agent-Workflow-FF8C00?style=for-the-badge&logo=robotframework&logoColor=white" />
-      <br/><br/>
-      <strong>智能编排</strong>
-      <br/>
-      Tools / Memory / Function Calling
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Ops-Docker-FFA500?style=for-the-badge&logo=docker&logoColor=white" />
-      <br/><br/>
-      <strong>部署运维</strong>
-      <br/>
-      Docker / Linux / Nginx
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Observe-Grafana-FFD166?style=for-the-badge&logo=grafana&logoColor=333333" />
-      <br/><br/>
-      <strong>可观测性</strong>
-      <br/>
-      Grafana / Logs / Metrics
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ===================== 技术图标墙 ===================== -->
-
-<div align="center">
-
-## 🧰 Tech Arsenal
-
-<img 
-  src="https://skillicons.dev/icons?i=java,py,spring,redis,mysql,docker,kubernetes,git,idea,aws,linux,nginx,grafana,postman,rabbitmq&theme=light" 
-  alt="Tech Stack" 
-/>
-
-</div>
-
----
-
-<!-- ===================== 架构作战地图 ===================== -->
-
-<div align="center">
-
-## 🧭 Architecture Battle Map
-
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧱 Service Layer</h3>
-      <p>
-        Spring Boot<br/>
-        RESTful API<br/>
-        OpenFeign<br/>
-        Gateway Routing
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Infra Layer</h3>
-      <p>
-        Nacos Discovery<br/>
-        Redis Cache<br/>
-        RabbitMQ Async<br/>
-        Seata Transaction
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Intelligence Layer</h3>
-      <p>
-        Prompt Template<br/>
-        Embedding Index<br/>
-        Vector Retrieval<br/>
-        Tool Calling
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ===================== 燃橙开发轨迹 ===================== -->
-
-<div align="center">
-
-## 📈 Orange Dev Orbit
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=linyxhe&bg_color=fffaf0&color=ff6a00&line=ff8c00&point=ff4500&area=true&area_color=ffd166&hide_border=true&custom_title=linyxhe%20ORANGE%20DEV%20ORBIT" 
-  alt="Orange Dev Orbit" 
-/>
-
-</div>
-
----
-
-<!-- ===================== 能量进度条 ===================== -->
-
-<div align="center">
-
-## ⚡ Energy Console
-
-</div>
-
-```txt
-Java Backend             ████████████████████░   95%
-Spring Boot              ███████████████████░░   90%
-Spring Cloud             ██████████████████░░░   86%
-Redis / MySQL            █████████████████░░░░   82%
-RabbitMQ / Async Design  ████████████████░░░░░   78%
-Docker / Linux / Nginx   ████████████████░░░░░   76%
-RAG / Vector Retrieval   ███████████████░░░░░░   72%
-Agent Workflow           █████████████░░░░░░░░   65%
+}
 ```
 
 ---
 
-<!-- ===================== 代码信条 ===================== -->
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-## 🔥 Engineering Creed
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>High Cohesion</strong>
-      <br/>
-      高内聚，让模块职责清晰
-    </td>
-    <td align="center">
-      <strong>Low Coupling</strong>
-      <br/>
-      低耦合，让系统更容易演进
-    </td>
-    <td align="center">
-      <strong>Observable</strong>
-      <br/>
-      可观测，让问题有迹可循
-    </td>
-    <td align="center">
-      <strong>Scalable</strong>
-      <br/>
-      可扩展，让架构扛得住未来
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ===================== 底部标语 ===================== -->
+## 📊 **Streak Stats**
 
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF8C00&center=true&vCenter=true&width=820&height=65&lines=%E6%AF%8F%E4%B8%80%E6%AC%A1+commit%EF%BC%8C%E9%83%BD%E6%98%AF%E5%90%91%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B0%84%E7%9A%84%E4%B8%80%E6%9D%9F%E5%85%89;%E4%BB%A5%E7%83%AD%E7%88%B1%E4%B8%BA%E7%87%83%E6%96%99%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%B8%BA%E8%BD%A8%E8%BF%B9+%F0%9F%8D%8A;%E6%9E%B6%E6%9E%84%E6%9C%89%E8%BE%B9%E7%95%8C%EF%BC%8C%E4%BB%A3%E7%A0%81%E6%9C%89%E5%85%89%E8%8A%92" 
-  alt="Footer Typing" 
-/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=linyxhe&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-<br/>
+</div>
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF4500,50:FF8C00,100:FFF7E6" 
-  alt="footer" 
-/>
+---
+
+## 🌟 **Featured Repos**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linyxhe&repo=linyxhe&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/linyxhe/linyxhe)
+
+</div>
+
+---
+
+## 💬 **Random Wisdom**
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=58a6ff)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🎯 **Fun Challenges for You!**
+
+<details>
+<summary>🏆 <b>Challenge 1: Star All My Repos</b></summary>
+<br>
+
+Can you ⭐ all my public repos? It's a hidden achievement!
+
+Current Progress: ⭐⭐⭐⭐⭐ (5/10)
+
+</details>
+
+<details>
+<summary>🎮 <b>Challenge 2: Decode This!</b></summary>
+<br>
+
+```
+01001000 01100101 01101100 01101100 01101111
+```
+
+<details>
+<summary>Click for answer</summary>
+
+It says "Hello"! Binary is fun! 💻
+
+</details>
+
+</details>
+
+<details>
+<summary>🤔 <b>Challenge 3: Find the Easter Egg</b></summary>
+<br>
+
+There's a hidden message somewhere in my profile...
+
+Hint: Look at the first letter of each section! 👀
+
+</details>
+
+---
+
+## 📫 **Let's Connect!**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linyxhe)
+
+</div>
+
+---
+
+## 🎨 **Wave Animation**
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&desc=Thanks%20for%20visiting!%20🎮&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+
+</div>
+
+---
+
+## 👀 **Profile Views Counter**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=linyxhe&color=blueviolet&style=flat-square&label=Profile+Views&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **If you like my profile, give it a star!** 🌟
+
+**⭐ ⭐ ⭐ ⭐ ⭐**
+
+---
+
+*Last updated: 2026*
+
+*Made with ❤️ and lots of ☕*
 
 </div>
