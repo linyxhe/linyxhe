@@ -55,32 +55,6 @@ It says "HELLO WORLD"! 🌍
 
 ---
 
-## 🎨 **Cool Animated Stats**
-
-<div align="center">
-
-<a href="https://github.com/linyxhe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linyxhe&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats%20🎮"/>
-</a>
-
-<a href="https://github.com/linyxhe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyxhe&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8&custom_title=Top%20Languages%20🏆"/>
-</a>
-
-</div>
-
----
-
-## 📈 **Activity Graph - Watch Me Code!**
-
-<div align="center">
-
-[![linyxhe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyxhe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=My%20Coding%20Journey%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🏆 **Trophy Collection**
 
 <div align="center">
