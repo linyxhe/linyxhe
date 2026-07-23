@@ -35,58 +35,6 @@
 </details>
 
 <details>
-<summary>🎮 <b>CLICK: Guess the Number Game</b></summary>
-<br>
-
-```
-I'm thinking of a number between 1-100...
-
-Rules:
-1. I pick a random number (seeded from today's date)
-2. You try to guess it
-3. I'll tell you if you're hot or cold!
-
-Can you guess it in 7 tries or less? 🤔
-
-Today's secret number hint: It's between 1-100!
-Pro tip: Use binary search! 🔍
-```
-
-[![Play Number Guessing](https://img.shields.io/badge/🎮_Play_Now-Click_Me!-blue?style=for-the-badge)](https://github.com/linyxhe)
-
-</details>
-
-<details>
-<summary>🎲 <b>CLICK: Dice Roll Simulator</b></summary>
-<br>
-
-```
-🎲 Rolling the dice...
-
-Current roll: ⚀ (1)
-Just kidding! 😄
-
-Every time you refresh this page, you get a different number!
-The universe is your random number generator 🌌
-```
-
-![Dice](https://svgshare.com/i/13fA.svg)
-
-</details>
-
-<details>
-<summary>🏆 <b>CLICK: Collect All Badges!</b></summary>
-<br>
-
-Try to collect all these badges by starring my repos! ⭐
-
-![Badge 1](https://img.shields.io/badge/⭐_First_Star-Earned!-gold?style=flat-square)
-![Badge 2](https://img.shields.io/badge/👀_Profile_View-Unlocked!-blue?style=flat-square)
-![Badge 3](https://img.shields.io/badge/🤝_Follow_Earned-green?style=flat-square)
-
-</details>
-
-<details>
 <summary>🎯 <b>CLICK: Morse Code Challenge</b></summary>
 <br>
 
@@ -104,21 +52,6 @@ It says "HELLO WORLD"! 🌍
 </details>
 
 </details>
-
----
-
-## 🐍 **SNAKE GAME - Play Right Here!**
-
-<div align="center">
-
-### How to Play:
-1. **Fork this repo** (click the Fork button)
-2. **Enable GitHub Actions** in your fork
-3. **Watch the snake** eat your contributions! 🐍
-
-The snake appears in the images above and updates automatically!
-
-</div>
 
 ---
 
@@ -212,107 +145,8 @@ public class linyxhe {
 
 ---
 
-## 🌟 **Featured Repos**
-
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linyxhe&repo=linyxhe&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/linyxhe/linyxhe)
-
-</div>
-
----
-
-## 💬 **Random Wisdom**
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=58a6ff)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🎯 **Fun Challenges for You!**
-
-<details>
-<summary>🏆 <b>Challenge 1: Star All My Repos</b></summary>
-<br>
-
-Can you ⭐ all my public repos? It's a hidden achievement!
-
-Current Progress: ⭐⭐⭐⭐⭐ (5/10)
-
-</details>
-
-<details>
-<summary>🎮 <b>Challenge 2: Decode This!</b></summary>
-<br>
-
-```
-01001000 01100101 01101100 01101100 01101111
-```
-
-<details>
-<summary>Click for answer</summary>
-
-It says "Hello"! Binary is fun! 💻
-
-</details>
-
-</details>
-
-<details>
-<summary>🤔 <b>Challenge 3: Find the Easter Egg</b></summary>
-<br>
-
-There's a hidden message somewhere in my profile...
-
-Hint: Look at the first letter of each section! 👀
-
-</details>
-
----
-
-## 📫 **Let's Connect!**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linyxhe)
-
-</div>
-
----
-
-## 🎨 **Wave Animation**
-
-<div align="center">
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&desc=Thanks%20for%20visiting!%20🎮&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-
-</div>
-
----
-
-## 👀 **Profile Views Counter**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=linyxhe&color=blueviolet&style=flat-square&label=Profile+Views&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **If you like my profile, give it a star!** 🌟
-
-**⭐ ⭐ ⭐ ⭐ ⭐**
-
----
 
 *Last updated: 2026*
-
-*Made with ❤️ and lots of ☕*
 
 </div>
