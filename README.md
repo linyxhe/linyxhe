@@ -29,64 +29,6 @@
 
 </div>
 
----
-
-## 🎯 **Interactive Games & Animations**
-
-<details>
-<summary>🎲 <b>CLICK: Random Programming Joke</b></summary>
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&border=58a6ff&color=58a6ff)
-
-</details>
-
-<details>
-<summary>🎯 <b>CLICK: Morse Code Challenge</b></summary>
-<br>
-
-Can you decode this?
-
-```
-.... . .-.. .-.. --- / .-- --- .-. .-.. -..
-```
-
-<details>
-<summary>Need a hint?</summary>
-
-It says "HELLO WORLD"! 🌍
-
-</details>
-
-</details>
-
----
-
-## 🚀 **About Me 关于我 · Developer Edition**
-
-```java
-public class linyxhe {
-
-    private final String role = "Java Backend Developer";
-    private final String focus = "Microservices Architecture";
-    private final String signal = "LLM Engineering";
-    private final String mission = "Design scalable systems";
-
-    public void run() {
-        while (true) {
-            designArchitecture();
-            buildService();
-            optimizePerformance();
-            shipValue();
-        }
-    }
-}
-```
-
-> 中文版：一名 **Java 后端工程师**，专注微服务架构与云原生，正在把大模型（LLM）应用到真实产品里。
-> A Java backend developer focused on microservices & cloud-native, now bringing LLM apps into production. 🇨🇳
-
----
 
 ## 🌟 Featured Projects 精选项目
 
