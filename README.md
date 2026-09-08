@@ -5,7 +5,7 @@
   2. 下方“联系我”如需加邮箱/掘金/CSDN，取消注释并填写即可。
 -->
 
-# 👋 你好，我是 **linyxhe** · Hi there, I'm **linyxhe**!
+# 👋 你好，我是 **linyxhe**!
 
 <div align="center">
 
